@@ -36,7 +36,7 @@ Shopify and Heroku use Bolt-backed services every day.
 > leaving it in its current state is the most prudent course of action.
 >
 > If you are interested in using a more featureful version of Bolt, I suggest that
-> you look at the CoreOS fork called [bbolt](https://github.com/coreos/bbolt).
+> you look at the CoreOS fork called [bbolt](https://github.com/etcd-io/bbolt).
 
 - Ben Johnson ([@benbjohnson](https://twitter.com/benbjohnson))
 
